@@ -1,29 +1,32 @@
-# Hi there! 👋 I'm Snehashis Roy
+# Hey there! 👋 I'm Snehashis Roy
 
-Part-time coder, full-time dreamer, and your friendly neighborhood bug squasher.  
-When I'm not busy turning coffee into code, you'll find me designing pixels or leveling up in games.  
-Currently juggling CSE studies, UI/UX magic, and a never-ending quest to master the art of “I swear this *works* on my machine.”  
-Let’s build cool stuff and have fun doing it!
+🚀 Part-time coder, full-time dreamer, occasional pixel whisperer.  
+🎮 Gaming my way through deadlines and debugging like it's a boss battle.  
+🎨 UI/UX explorer with a sketchpad full of ideas (and snacks nearby).  
+🎓 CSE student @ The Assam Kaziranga University — leveling up every day.  
+☕ Powered by coffee, chaos, and "wait… why isn't this compiling?"
+
+> “It worked 5 minutes ago” — probably me every other hour 😅
 
 ![Coding Fun](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ---
 
-### 📫 How to reach me
+## 📬 Reach out and say hi!
 
-[roysnehashis2004@gmail.com](mailto:roysnehashis2004@gmail.com)
+[✉️ roysnehashis2004@gmail.com](mailto:roysnehashis2004@gmail.com)
 
 ---
 
-### Connect with me:
+## 🌐 Let’s get social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/snehashis-roy-40691725a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehashis-roy-40691725a)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024985310603)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.roybabu._/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.roybabu._)
 
 ---
 
-### Languages and Tools
+## 🛠️ Languages & Tools I Break (and Fix)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -37,16 +40,20 @@ Let’s build cool stuff and have fun doing it!
 
 ---
 
-### GitHub Stats
+## 📊 My GitHub Game
 
-![Snehashis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nielr2004&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nielr2004&layout=compact&theme=radical)
-
+![Snehashis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nielr2004&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nielr2004&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nielr2004&theme=radical)
 
 ---
 
-### Visitor Count
+## 🎯 Current Status
+
+> Focusing on mastering the art of looking busy while Git installs 😎
+
+---
+
+## 👀 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/Nielr2004/count.svg)
