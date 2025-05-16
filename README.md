@@ -8,7 +8,7 @@
 
 > “It worked 5 minutes ago” — probably me every other hour 😅
 
-![Coding Fun](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+![Coding Rage](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
