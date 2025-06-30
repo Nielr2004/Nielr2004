@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://portfolio-eta-drab-44.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="![qr-code](https://github.com/user-attachments/assets/c204347c-6cba-4809-b088-9c7d74779a08)" alt="QR Code to Snehashis Roy's Portfolio" width="200px" />
+    <img src="https://github.com/user-attachments/assets/c204347c-6cba-4809-b088-9c7d74779a08" alt="QR Code to Snehashis Roy's Portfolio" width="200px" />
   </a>
   <br>
   (Click the QR code or scan it with your phone!)
