@@ -18,6 +18,23 @@
 
 ---
 
+### 🚀 My Portfolio
+
+<p align="center">
+  Check out my work and more details about me on my portfolio website!
+</p>
+
+<p align="center">
+  <a href="[https://portfolio-eta-drab-44.vercel.app/]" target="_blank" rel="noopener noreferrer">
+    <img src="[![qr-code](https://github.com/user-attachments/assets/76acea6d-9589-4337-b37b-deab7da8fb55)
+]" alt="QR Code to Snehashis Roy's Portfolio" width="200px" />
+  </a>
+  <br>
+  (Click the QR code or scan it with your phone!)
+</p>
+
+---
+
 ### 📬 Reach Me At
 
 <p align="center">
@@ -35,7 +52,7 @@
   <a href="https://www.facebook.com/profile.php?id=100024985310603">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/_.roybabu._">
+  <a href="https://www.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
