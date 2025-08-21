@@ -118,5 +118,5 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nielr2004/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Nielr2004&style=flat-square&color=blueviolet" alt="Profile Visitor Count">
 </div>
