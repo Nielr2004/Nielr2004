@@ -15,6 +15,12 @@
   ☕ Powered by coffee, chaos, and "wait… why isn't this compiling?"
 </p>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nielr2004&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  </a>
+</div>
+
 <img src="https://raw.githubusercontent.com/T-M-T-G/T-M-T-G/main/images/line.gif" width="100%">
 
 ### 🛠️ My Tech Stack & Tools
@@ -81,6 +87,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nielr2004&theme=dracula&layout=compact" alt="Repos per Language">
   </a>
 </p>
+<p align="center">
+    <a href="https://github.com/Nielr2004">
+      <img src="https://streak-stats.demolab.com/?user=Nielr2004&theme=dracula&hide_border=true" alt="GitHub Streak">
+    </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/T-M-T-G/T-M-T-G/main/images/line.gif" width="100%">
 
@@ -92,7 +103,7 @@
 
 <p align="center">
   <a href="https://portfolio-eta-drab-44.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/c204347c-6cba-4809-b088-9c7d74779a08" alt="QR Code to Snehashis Roy's Portfolio" width="200px" />
+    <img src="https://github.com/user-attachments/assets/c204347c-6cba-4b09-b088-9c7d74779a08" alt="QR Code to Snehashis Roy's Portfolio" width="200px" />
   </a>
   <br>
   (Click the QR code or scan it with your phone!)
