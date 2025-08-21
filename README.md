@@ -8,7 +8,11 @@
 </h1>
 
 <p align="center">
-  🚀 Part-time coder, full-time dreamer, occasional pixel whisperer. 🚀
+  🚀 Part-time coder, full-time dreamer, occasional pixel whisperer. <br> 
+  🎮 Gaming my way through deadlines and debugging like it's a boss battle. <br> 
+  🎨 UI/UX explorer with a sketchpad full of ideas (and snacks nearby). <br> 
+  🎓 CSE student @ The Assam Kaziranga University — leveling up every day. <br> 
+  ☕ Powered by coffee, chaos, and "wait… why isn't this compiling?"
 </p>
 
 <img src="https://raw.githubusercontent.com/T-M-T-G/T-M-T-G/main/images/line.gif" width="100%">
