@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=DA70D6&center=true&vCenter=true&width=435&lines=Part-time+coder%2C+full-time+dreamer.;UI%2FUX+Explorer+%7C+CSE+Student;Debugging+like+it's+a+boss+battle.;Powered+by+coffee+and+chaos." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DA70D6&center=true&vCenter=true&width=435&lines=Part-time+coder%2C+full-time+dreamer.;UI%2FUX+Explorer+%7C+CSE+Student;Debugging+like+it's+a+boss+battle.;Powered+by+coffee+and+chaos." alt="Typing SVG">
   </a>
 </p>
 
@@ -19,33 +19,61 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
-</p>
+<img src="https://i.imgur.com/nJ02gby.gif" width="100%">
 
 ### 🛠️ My Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <br>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3 align="center">💻 Frontend</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow">
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3 align="center">⚙️ Backend</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+        <img src="https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Development">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3 align="center">🎨 Design</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD">
+        <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+        <img src="https://img.shields.io/badge/UI/UX_Design-gray?style=for-the-badge" alt="UI/UX Design">
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3 align="center">🧠 Data & AI/ML</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+        <img src="https://img.shields.io/badge/Machine_Learning-gray?style=for-the-badge" alt="Machine Learning">
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
-</p>
+<img src="https://i.imgur.com/nJ02gby.gif" width="100%">
 
 ### 📊 My GitHub Stats
 
@@ -71,9 +99,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
-</p>
+<img src="https://i.imgur.com/nJ02gby.gif" width="100%">
 
 ### 🚀 My Portfolio
 
@@ -89,9 +115,7 @@
   (Click the QR code or scan it with your phone!)
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/line.svg" width="100%">
-</p>
+<img src="https://i.imgur.com/nJ02gby.gif" width="100%">
 
 ### 📬 Connect with Me
 
