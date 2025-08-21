@@ -103,7 +103,7 @@
 
 <p align="center">
   <a href="https://portfolio-eta-drab-44.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img width="1353" height="1353" alt="qr-code" src="https://github.com/user-attachments/assets/82fa7ec9-cd90-44a5-a5d9-b9b2e9e40be3" />
+    <img width="200" alt="qr-code" src="https://github.com/user-attachments/assets/82fa7ec9-cd90-44a5-a5d9-b9b2e9e40be3" />
   </a>
   <br>
   (Click the QR code or scan it with your phone!)
