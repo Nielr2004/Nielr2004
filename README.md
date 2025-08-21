@@ -8,16 +8,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DA70D6&center=true&vCenter=true&width=435&lines=Part-time+coder%2C+full-time+dreamer.;UI%2FUX+Explorer+%7C+CSE+Student;Debugging+like+it's+a+boss+battle.;Powered+by+coffee+and+chaos.&date=20250821" alt="Typing SVG">
-  </a>
+  🚀 Part-time coder, full-time dreamer, occasional pixel whisperer. 🚀
 </p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nielr2004&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&date=20250821" alt="GitHub Trophies">
-  </a>
-</div>
 
 <img src="https://i.imgur.com/nJ02gby.gif" width="100%">
 
@@ -77,27 +69,14 @@
 
 ### 📊 My GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Nielr2004">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nielr2004&show_icons=true&count_private=true&theme=dracula&hide_border=true&icon_color=79ff97&date=20250821" width="410" alt="GitHub Stats">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Nielr2004">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nielr2004&layout=compact&theme=dracula&hide_border=true&date=20250821" width="370" alt="Top Languages">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Nielr2004">
-        <img src="https://streak-stats.demolab.com/?user=Nielr2004&theme=dracula&hide_border=true&date=20250821" alt="GitHub Streak">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Nielr2004">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nielr2004&theme=dracula" alt="Profile Summary Card">
+  </a>
+  <a href="https://github.com/Nielr2004">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nielr2004&theme=dracula&layout=compact" alt="Repos per Language">
+  </a>
+</p>
 
 <img src="https://i.imgur.com/nJ02gby.gif" width="100%">
 
