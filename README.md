@@ -8,18 +8,18 @@
 </h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=A+Web+Developer;A+Frontend+Developer;An+UI%2FUX+Developer;A+Backend+Developer;An+AI%2FML+Developer;A+Gen+AI+Developer;A+Data+Analyst;A+Data+Visualizer" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
   🚀 Part-time coder, full-time dreamer, occasional pixel whisperer. <br> 
   🎮 Gaming my way through deadlines and debugging like it's a boss battle. <br> 
   🎨 UI/UX explorer with a sketchpad full of ideas (and snacks nearby). <br> 
   🎓 CSE student @ The Assam Kaziranga University — leveling up every day. <br> 
   ☕ Powered by coffee, chaos, and "wait… why isn't this compiling?"
 </p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nielr2004&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-  </a>
-</div>
 
 <img src="https://raw.githubusercontent.com/T-M-T-G/T-M-T-G/main/images/line.gif" width="100%">
 
@@ -78,6 +78,12 @@
 <img src="https://raw.githubusercontent.com/T-M-T-G/T-M-T-G/main/images/line.gif" width="100%">
 
 ### 📊 My GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nielr2004&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/Nielr2004">
